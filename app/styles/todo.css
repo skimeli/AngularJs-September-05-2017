@@ -1,0 +1,14 @@
+@charset"utf-8";
+
+/* CSS Document */
+li {
+    list-style:none;
+}
+.done_false {
+    text-decoration: none;
+    color: red;
+}
+.done_true {
+    text-decoration: line-through;
+    color: gray;
+}
